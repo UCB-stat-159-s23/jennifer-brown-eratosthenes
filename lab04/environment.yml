@@ -8,3 +8,4 @@ dependencies:
   - numpy
   - matplotlib
 prefix: /home/jovyan/envs/test_env
+
